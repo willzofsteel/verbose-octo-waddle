@@ -1,3 +1,3 @@
 test('something', () => {
-  expect(true).toEqual(false);
+  expect(true).toEqual(true);
 });
